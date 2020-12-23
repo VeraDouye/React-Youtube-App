@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-youtube-app/static/css/main.af240721.chunk.css",
+    "main.js": "/react-youtube-app/static/js/main.7f2b3f62.chunk.js",
+    "main.js.map": "/react-youtube-app/static/js/main.7f2b3f62.chunk.js.map",
+    "runtime-main.js": "/react-youtube-app/static/js/runtime-main.5ab723ad.js",
+    "runtime-main.js.map": "/react-youtube-app/static/js/runtime-main.5ab723ad.js.map",
+    "static/js/2.8996bf4f.chunk.js": "/react-youtube-app/static/js/2.8996bf4f.chunk.js",
+    "static/js/2.8996bf4f.chunk.js.map": "/react-youtube-app/static/js/2.8996bf4f.chunk.js.map",
+    "static/js/3.324c09b5.chunk.js": "/react-youtube-app/static/js/3.324c09b5.chunk.js",
+    "static/js/3.324c09b5.chunk.js.map": "/react-youtube-app/static/js/3.324c09b5.chunk.js.map",
+    "index.html": "/react-youtube-app/index.html",
+    "static/css/main.af240721.chunk.css.map": "/react-youtube-app/static/css/main.af240721.chunk.css.map",
+    "static/js/2.8996bf4f.chunk.js.LICENSE.txt": "/react-youtube-app/static/js/2.8996bf4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ab723ad.js",
+    "static/js/2.8996bf4f.chunk.js",
+    "static/css/main.af240721.chunk.css",
+    "static/js/main.7f2b3f62.chunk.js"
+  ]
+}
